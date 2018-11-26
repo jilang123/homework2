@@ -1,0 +1,44 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.header{
+    text-align: center;
+    width:100%;
+    line-height: 60px;
+    background-color: #E0FFFF;
+}
+body{
+    background-color: #F0F8FF;
+}
+.container{
+    margin: auto;
+    width:420px;
+    background-image: url("images/timg2.jpg");
+    border: 1px #C0C0C0 solid;
+    padding: 10px;
+}
+.search{
+    width: 280px;
+    height: 35px;
+}
+.btn{
+    width: 100px;
+    height: 35px;
+    background-color: #7FFFD4;
+    border: 1px solid #00FF7F;
+    color: #333;
+}
+.title{
+    color: #00BFFF;
+    margin-top: 20px;
+    padding-left: 30px;
+}
+img{
+    width: 400px;
+    height: 250px;
+}
+p{
+    color: #4E5A59;
+    padding: 30px;
+}
